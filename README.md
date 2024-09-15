@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on **Fees management system**
 
-- 💬 Ask me about **react,mearn,php**
-
 - 📫 How to reach me **nnabeelijaznabinoor@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
