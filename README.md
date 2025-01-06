@@ -11,6 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   WhatsApp: +447511 112395
+  nnabeelijaznabinoor@gmail.com
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
